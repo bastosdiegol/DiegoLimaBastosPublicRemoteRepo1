@@ -6,6 +6,8 @@ There's a total of #10 Exercices which compose this Lab.
 
 The deadline for submission due on Jan 31, 2025 11:59 PM.
 
+Line edited to force conflict.
+
 Collaborators:
 
 - Diego Bastos
